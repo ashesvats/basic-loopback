@@ -1,0 +1,9 @@
+node_modules/*
+npm-debug.log
+dist/*
+/views/admin/bower_components
+/views/admin/node_modules
+.tmp
+.sass-cache
+bower_components
+.idea/*
