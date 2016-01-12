@@ -3,7 +3,7 @@
  * @ngdoc overview
  * @name sbAdminApp
  * @description
- * # sbAdminApp
+ * # adminApp
  *
  * Main module of the application.
  */

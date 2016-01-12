@@ -6,7 +6,6 @@ var grabber=require('./modules/grabber');
 var bodyParser = require('body-parser');
 
 var app = module.exports = loopback();
-
 app.use(bodyParser.json()); // for parsing application/json
 app.use(bodyParser.urlencoded({ extended: true })); // for parsing application/x-www-form-urlencoded
 
