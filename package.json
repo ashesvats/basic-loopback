@@ -1,5 +1,5 @@
 {
-  "name": "loopback",
+  "name": "LoopBack",
   "version": "1.0.0",
   "main": "server/server.js",
   "scripts": {
